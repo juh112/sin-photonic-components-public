@@ -1,0 +1,37 @@
+[
+  {
+    "figure": "figures/stack.png",
+    "sha256": "4dbd301b794d17a7931153e7cd00fe3a4042fdec714952476eb6807cd45506bd",
+    "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/components.png",
+    "sha256": "e5fc19510d6c2b1bb5221abcfd8b5470c8d80a2961dc731427eea70b7f86161c",
+    "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/sem.png",
+    "sha256": "1ac316d1ac3ef38acb1f7fe64ffa51f425c13967ad7f98525404258e55b3c769",
+    "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/afm.png",
+    "sha256": "41d079e79180c93c4b2164b2d9108865f78ef6c08330711e0801c3c25ae80df6",
+    "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/afm-trends.png",
+    "sha256": "dfa73e98436dc325506fd5049b75a7ffbeb1440e9355dcaac213e07e7f542805",
+    "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/profilometer.png",
+    "sha256": "d68f71dcfde069894c9fce80ac90d2c0c1a7dacc59d3685b526195f015688ab2",
+    "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/profiles.png",
+    "sha256": "2088d090c33515dabfdf6d856c8ff4cbbc3f6c030cddfe501d7e515698c241c1",
+    "kind": "selected author-provided research figure"
+  }
+]
