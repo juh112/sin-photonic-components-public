@@ -64,4 +64,3 @@ Localized green light was observed near the input facet with the laser ON. Guide
 | ![Facet chipping](images/facet_chipping.png) | ![Post-cleaning damage](images/cladding_fracture.png) |
 
 The images document polishing-related edge damage and subsequent fracture observations on chips with approximately 4 µm PECVD SiO2 cladding. The precise failure mechanism remains under investigation.
-
