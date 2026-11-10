@@ -41,3 +41,27 @@ The images document visible damage, but do not conclusively identify whether fra
 ## Measurement Status
 
 This is a preliminary alignment and fabrication case study. No validated waveguide transmission, insertion loss, or coupling-efficiency value is claimed.
+
+
+## Experimental Images
+
+### Fiber-to-Chip Alignment — 532 nm
+
+| Input: Laser OFF | Input: Laser ON |
+|---|---|
+| ![Input OFF](images/input_off.jpg) | ![Input ON](images/input_on.jpg) |
+
+| Output: Laser OFF | Output: Laser ON |
+|---|---|
+| ![Output OFF](images/output_off.jpg) | ![Output ON](images/output_on.jpg) |
+
+Localized green light was observed near the input facet with the laser ON. Guided transmission through the waveguide has not yet been confirmed.
+
+### Facet Preparation and Damage
+
+| Facet edge chipping | Damage after ultrasonic cleaning |
+|---|---|
+| ![Facet chipping](images/facet_chipping.png) | ![Post-cleaning damage](images/cladding_fracture.png) |
+
+The images document polishing-related edge damage and subsequent fracture observations on chips with approximately 4 µm PECVD SiO2 cladding. The precise failure mechanism remains under investigation.
+
