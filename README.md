@@ -1,8 +1,11 @@
+
 # SiN Photonic Components and Process Metrology
 
 **Jun Young Hong · Optical interfaces, component modeling and fabrication checks**
 
 The study connects visible-wavelength pump delivery and fluorescence collection with the geometry that fabrication can produce. It separates guided-mode transport, fiber/facet coupling and process metrology rather than treating one high simulated transmission as device validation.
+
+**Experimental work:** [532 nm Fiber-to-Chip Edge Coupling and Facet Preparation](experiments/edge-coupling/README.md)
 
 ```mermaid
 flowchart LR
@@ -15,25 +18,35 @@ flowchart LR
     style M fill:#dcfce7,stroke:#15803d
 ```
 
-## 1. Start with the physical stack
+## 1. Physical Stack and Optical Confinement
 
 ![Air-clad versus oxide-clad boundaries](figures/stack.png)
 
 Changing cladding changes confinement and interface behavior. Air-clad and oxide-clad cases are distinct physical models, not one same-stack parameter sweep.
 
-## 2. Separate propagation from coupling
+## 2. Component Design and Optical Propagation
 
 ![Existing EME component studies](figures/components.png)
 
 The inverse-taper and strip-to-slot studies compare guided-mode transport under their stated model boundaries. The wavelength response is a component calculation, not measured fluorescence collection. Fiber-mode mismatch, alignment, facet quality and reflection remain additional interface effects.
 
-## 3. Inspect fabricated structures
+## 3. Fiber-to-Chip Edge Coupling and Facet Preparation
+
+Preliminary 532 nm fiber-to-chip alignment trials were conducted using conical lensed single-mode fibers, with input/output facet microscopy under laser OFF/ON conditions.
+
+Localized green light was observed near the input fiber-chip interface. However, end-to-end guided waveguide transmission and coupling efficiency have not yet been verified.
+
+Facet preparation trials on photonic chips with approximately 4 µm PECVD SiO2 cladding revealed edge chipping during polishing and additional damage following ultrasonic cleaning. The precise failure mechanism has not yet been established.
+
+**[View experimental setup, observations, and microscopy images](experiments/edge-coupling/README.md)**
+
+## 4. Fabricated Structures and SEM Inspection
 
 ![Actual SEM inspection](figures/sem.png)
 
 SEM images show coupling regions, routing and the strip-to-slot transition region of an earlier fabricated demonstrator. The original analysis adjusted image contrast. These are geometry observations, not measured optical performance or evidence that every modeled design was fabricated.
 
-## 4. Read metrology before fitting a trend
+## 5. Process Metrology and Fabrication Variation
 
 ![Measured AFM maps](figures/afm.png)
 
