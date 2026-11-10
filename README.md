@@ -38,7 +38,28 @@ Localized green light was observed near the input fiber-chip interface. However,
 
 Facet preparation trials on photonic chips with approximately 4 µm PECVD SiO2 cladding revealed edge chipping during polishing and additional damage following ultrasonic cleaning. The precise failure mechanism has not yet been established.
 
-**[View experimental setup, observations, and microscopy images](experiments/edge-coupling/README.md)**
+### 532 nm Edge-Coupling Observations
+
+| Input: Laser OFF | Input: Laser ON |
+|---|---|
+| ![Input OFF](experiments/edge-coupling/images/input_off.jpg) | ![Input ON](experiments/edge-coupling/images/input_on.jpg) |
+
+| Output: Laser OFF | Output: Laser ON |
+|---|---|
+| ![Output OFF](experiments/edge-coupling/images/output_off.jpg) | ![Output ON](experiments/edge-coupling/images/output_on.jpg) |
+
+**Observation:** Localized green light was visible near the input facet with the 532 nm laser ON. Guided transmission through the waveguide has not yet been confirmed.
+
+### Facet Polishing and Cladding Damage
+
+| Facet edge chipping | Damage after ultrasonic cleaning |
+|---|---|
+| ![Facet chipping](experiments/edge-coupling/images/facet_chipping.png) | ![Post-cleaning damage](experiments/edge-coupling/images/cladding_fracture.png) |
+
+**Observation:** Edge chipping during polishing and additional damage following ultrasonic cleaning were observed in chips with approximately 4 µm PECVD SiO2 cladding. The precise fracture mechanism has not been established.
+
+[View full experimental setup, analysis, and next steps](experiments/edge-coupling/README.md)
+
 
 ## 4. Fabricated Structures and SEM Inspection
 
