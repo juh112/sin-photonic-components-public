@@ -83,6 +83,31 @@ Within-session fixed-dose comparisons show scan variation and exploratory three-
 
 Baseline, edge selection and fitting window affect extracted thickness. The saved instrument reading and independent profile fit are different estimates. Historical fits are shown without claiming a new extraction or a common deposition calibration across batches.
 
+## 6. Opening the Oxide Window: Etch Control and Pattern Fidelity
+
+The sensing region needs a window through the ~2 µm PECVD SiO2 top cladding, while the couplers stay oxide-clad. Thick photoresist was patterned by maskless UV lithography and transferred with a cyclic fluorine plasma etch that includes an in-loop cooling step. Early loops without adequate cooling deformed the resist; adding the cooling step kept the mask intact through 17 cycles.
+
+![Resist opening, cyclic etch and resist strip on the same cell](figures/oxide-window-overview.png)
+
+The same 500 µm opening was tracked through each stage by optical microscopy and stylus profilometry. Edges remain straight. Particles visible after etching were already present before etching.
+
+![Remaining SiO2 and resist versus etch cycles, and depth across exposure cells](figures/oxide-window-etch-control.png)
+
+Oxide and resist are removed linearly with cycle count, so the clearing point can be predicted from a mid-process reflectometry check. About 0.55–0.65 µm of resist remains when the oxide clears. Exposure conditions change the final depth by less than 2 %; the deeper die shows the cost of running about one cycle past clearing.
+
+![Measured line width versus layout across dose, focus and etch](figures/oxide-window-cd.png)
+
+Line widths from 4 to 20 µm were measured against the layout at each stage (120 images, about 1000 line measurements). Openings are wider than drawn by a nearly constant offset, so a single per-edge mask bias corrects all widths. Dose shifts the offset more than focus, y-oriented lines print wider than x-oriented lines, and the etch itself changes width by less than the optical-measurement limit.
+
+| Risk for the patterned wafer | Effect | Response |
+|---|---|---|
+| Cladding thickness varies between depositions | Clearing cycle shifts | Measure a witness, stop early and finish in single cycles |
+| Etching past clearing | Removes material below the window | Reflectometry check before the final cycles |
+| Width offset | Window wider than drawn | Per-axis mask bias from the measured offset |
+| Sidewall angle not yet measured | Window-to-core spacing at the bottom is uncertain | Cross-section SEM before final layout |
+
+These are test-die results. Sidewall angle, overlay to the waveguide layer and the full patterned wafer remain to be checked.
+
 ## What the study changes
 
 Metrology constrains the geometry that should enter optical models. Reference paths, facet inspection and alignment scans are needed to distinguish process variation from interface loss. Complete fiber-to-chip efficiency and integrated sensing operation are not established by these examples.

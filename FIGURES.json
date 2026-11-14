@@ -33,5 +33,20 @@
     "figure": "figures/profiles.png",
     "sha256": "2088d090c33515dabfdf6d856c8ff4cbbc3f6c030cddfe501d7e515698c241c1",
     "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/oxide-window-overview.png",
+    "sha256": "df5db6ae0033313d19e39d230fdb86cdda33a80b7fbd8eef2f5032679dad936b",
+    "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/oxide-window-etch-control.png",
+    "sha256": "953c55367e128ddbe7035f800f712862cf0a201642a457a90ce42edb3e8e82fd",
+    "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/oxide-window-cd.png",
+    "sha256": "f0c0d4ffd23eb1b05d88865e4b6bb9d9ca057792c03ae0fb575c32aeffbe794d",
+    "kind": "selected author-provided research figure"
   }
 ]
