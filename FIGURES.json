@@ -58,5 +58,10 @@
     "figure": "figures/patterned-window-depth.png",
     "sha256": "900ed07fb48f25484b23834ab2f94d2948d5ea8f66aa11786dc8207b1f409484",
     "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/patterned-reflectometry.png",
+    "sha256": "9796e2fbed0a84c0d81925bf9581c7ae7136ee56fd5691a973011da8bbf0196b",
+    "kind": "selected author-provided research figure"
   }
 ]
