@@ -1,6 +1,6 @@
 # NV fluorescence collection: numerical validation before design claims
 
-Updated 2026-11-14. This is a simulation diagnostic, not measured fluorescence collection or a released absolute beta factor.
+This is a simulation diagnostic, not measured fluorescence collection or a released absolute beta factor.
 
 ![Fixed-grid weak-mode diagnostic](fixedgrid_validation.png)
 
