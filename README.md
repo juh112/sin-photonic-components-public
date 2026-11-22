@@ -7,7 +7,7 @@ The study connects visible-wavelength pump delivery and fluorescence collection 
 
 ![20 µm oxide window opened over a SiN waveguide on the patterned wafer](figures/patterned-window.png)
 
-*Patterned wafer (November 2026). A 20 µm window opened through the oxide cladding with the waveguide core near its center.*
+*Patterned wafer. A 20 µm window opened through the oxide cladding with the waveguide core near its center.*
 
 **Experimental work:** [532 nm Fiber-to-Chip Edge Coupling and Facet Preparation](experiments/edge-coupling/README.md)
 
@@ -112,7 +112,7 @@ Line widths from 4 to 20 µm were measured against the layout at each stage (120
 
 These are test-die results.
 
-### Patterned wafer result (November 2026)
+### Patterned wafer result
 
 ![Cladding thickness across the patterned wafer and oxide left after 14 etch cycles](figures/patterned-reflectometry.png)
 
