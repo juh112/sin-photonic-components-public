@@ -1,7 +1,7 @@
 
 # SiN Photonic Components and Process Metrology
 
-**Jun Young Hong · Optical interfaces, component modeling and fabrication checks**
+**Optical interfaces, component modeling and fabrication checks**
 
 The study connects visible-wavelength pump delivery and fluorescence collection with the geometry that fabrication can produce. It separates guided-mode transport, fiber/facet coupling and process metrology rather than treating one high simulated transmission as device validation.
 
