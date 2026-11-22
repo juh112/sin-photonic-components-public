@@ -114,6 +114,10 @@ These are test-die results.
 
 ### Patterned wafer result (November 2026)
 
+![Cladding thickness across the patterned wafer and oxide left after 14 etch cycles](figures/patterned-reflectometry.png)
+
+Before etching, reflectometry through the SiN-covered areas measured the PECVD cladding at 1.95 to 2.08 µm, about 130 nm thicker at the bottom of the wafer. After 14 cycles the top dies had cleared while the bottom dies still had 70 to 90 nm of oxide. The etch was stopped there. One more cycle would have thinned the exposed 150 nm SiN cores on the cleared dies, which cannot be undone, while the thin oxide floor only lowers window loss slightly. The wafer now holds cleared and floor-oxide dies that can be compared on chip.
+
 ![Window depth on four dies of the patterned wafer](figures/patterned-window-depth.png)
 
 The same process opened the windows on every die of the patterned wafer. Depth was 2.00 to 2.05 µm on four dies (mean 2.02 µm). The waveguide core sits near the window center, and on narrow test windows the offset is under 1 µm. Top openings are about 1.3 µm wider per edge than drawn, which matches a sloped sidewall. Sidewall angle by cross-section SEM and optical loss through the windows remain to be measured.
