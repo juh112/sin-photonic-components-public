@@ -48,5 +48,15 @@
     "figure": "figures/oxide-window-cd.png",
     "sha256": "f0c0d4ffd23eb1b05d88865e4b6bb9d9ca057792c03ae0fb575c32aeffbe794d",
     "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/patterned-window.png",
+    "sha256": "10dc2735a7bf6a949bfbf0a09733c7080b95c0f0c91384862c2eca1fdb76f65f",
+    "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/patterned-window-depth.png",
+    "sha256": "900ed07fb48f25484b23834ab2f94d2948d5ea8f66aa11786dc8207b1f409484",
+    "kind": "selected author-provided research figure"
   }
 ]

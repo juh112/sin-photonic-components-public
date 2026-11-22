@@ -5,6 +5,10 @@
 
 The study connects visible-wavelength pump delivery and fluorescence collection with the geometry that fabrication can produce. It separates guided-mode transport, fiber/facet coupling and process metrology rather than treating one high simulated transmission as device validation.
 
+![20 µm oxide window opened over a SiN waveguide on the patterned wafer](figures/patterned-window.png)
+
+*Patterned wafer (November 2026). A 20 µm window opened through the oxide cladding with the waveguide core near its center.*
+
 **Experimental work:** [532 nm Fiber-to-Chip Edge Coupling and Facet Preparation](experiments/edge-coupling/README.md)
 
 ```mermaid
@@ -106,7 +110,13 @@ Line widths from 4 to 20 µm were measured against the layout at each stage (120
 | Width offset | Window wider than drawn | Per-axis mask bias from the measured offset |
 | Sidewall angle not yet measured | Window-to-core spacing at the bottom is uncertain | Cross-section SEM before final layout |
 
-These are test-die results. Sidewall angle, overlay to the waveguide layer and the full patterned wafer remain to be checked.
+These are test-die results.
+
+### Patterned wafer result (November 2026)
+
+![Window depth on four dies of the patterned wafer](figures/patterned-window-depth.png)
+
+The same process opened the windows on every die of the patterned wafer. Depth was 2.00 to 2.05 µm on four dies (mean 2.02 µm). The waveguide core sits near the window center, and on narrow test windows the offset is under 1 µm. Top openings are about 1.3 µm wider per edge than drawn, which matches a sloped sidewall. Sidewall angle by cross-section SEM and optical loss through the windows remain to be measured.
 
 ## What the study changes
 
