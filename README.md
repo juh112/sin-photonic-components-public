@@ -89,7 +89,7 @@ Baseline, edge selection and fitting window affect extracted thickness. The save
 
 ## 6. Opening the Oxide Window: Etch Control and Pattern Fidelity
 
-The sensing region needs a window through the ~2 µm PECVD SiO2 top cladding, while the couplers stay oxide-clad. Thick photoresist was patterned by maskless UV lithography and transferred with a cyclic fluorine plasma etch that includes an in-loop cooling step. Early loops without adequate cooling deformed the resist; adding the cooling step kept the mask intact through 17 cycles.
+The sensing region needs a window through the about 2 µm thick PECVD SiO2 top cladding, while the couplers stay oxide-clad. Thick photoresist was patterned by maskless UV lithography and transferred with a cyclic fluorine plasma etch that includes an in-loop cooling step. Early loops without adequate cooling deformed the resist; adding the cooling step kept the mask intact through 17 cycles.
 
 ![Resist opening, cyclic etch and resist strip on the same cell](figures/oxide-window-overview.png)
 
