@@ -127,3 +127,18 @@ The same process opened the windows on every die of the patterned wafer. Depth w
 Metrology constrains the geometry that should enter optical models. Reference paths, facet inspection and alignment scans are needed to distinguish process variation from interface loss. Complete fiber-to-chip efficiency and integrated sensing operation are not established by these examples.
 
 [Evidence and disclosure scope](CONTENT_NOTES.md) · [Experimental portfolio](https://github.com/juh112/photonics-testbenches-public)
+
+## Research status and future updates
+
+This repository is a living engineering record, not a fixed device specification or a claim of completed system validation. New work can be added as separate, traceable studies while preserving earlier observations.
+
+| Workstream | Current evidence | Possible next updates |
+|---|---|---|
+| **PIC component design** | Mode and transition simulations with documented model boundaries | New component variants, convergence studies, and design comparisons |
+| **Fabrication & process control** | Patterned structures, oxide-window processing, and microscopy | Additional fabrication runs, cross-section inspection, and process comparisons |
+| **Metrology & analysis** | SEM, AFM, reflectometry, and profilometry results | Repeated measurements, uncertainty analysis, and improved analysis scripts |
+| **Optical interfaces & testing** | Preliminary 532 nm facet/alignment observations | Reference-waveguide tests, alignment scans, and verified transmission measurements |
+
+**Evidence convention:** *Simulated* refers to model predictions; *fabricated/observed* refers to physical structures or instrument observations; *validated* is reserved for measurements with appropriate controls. Planned work is not presented as a result.
+
+Future results should be dated and linked to their supporting figures, scripts, or experiment notes where disclosure is permitted. Unpublished or sponsor-restricted designs, process details, and data remain outside this public repository.
